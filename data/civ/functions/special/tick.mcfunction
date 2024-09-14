@@ -1,0 +1,1 @@
+execute as @a at @s if block 464 76 2174 minecraft:air run execute if score meng.yang global matches 0 run function civ:special/mengyang

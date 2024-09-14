@@ -1,0 +1,15 @@
+# 全服通知
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": "【全服公告】","color": "red","bold": true},{"text": "天空之境已被摧毁！","color":"white","bold":false}]
+tellraw @a [{"text": "  故事的终章...","color":"white","bold":false}]
+tellraw @a [{"text": " "}]
+tellraw @a [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a [{"text": " "}]
+execute as @p in minecraft:skyland run playsound entity.ender_dragon.death player @a 0 0 0 3000

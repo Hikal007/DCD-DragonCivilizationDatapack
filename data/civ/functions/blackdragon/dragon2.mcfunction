@@ -1,0 +1,15 @@
+function civ:blackdragon/warden3
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": "【神秘之源】","color": "red","bold": true},{"text": "黑龙进入“第二阶段”！","color":"white","bold":false}]
+tellraw @a[tag=inblack] [{"text": "  击杀守护者！","color":"white","bold":false}]
+tellraw @a[tag=inblack] [{"text": " "}]
+tellraw @a[tag=inblack] [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a[tag=inblack] [{"text": " "}]
+scoreboard players set dragon.2 global 1

@@ -1,0 +1,2 @@
+execute if entity @a[scores={dead=1..}] run tag @a[scores={dead=1..}] add dead
+execute if entity @a[tag=dead,team=!zaowuzhu] run title @a[tag=dead,team=!zaowuzhu] actionbar [{"text":"您已死亡，请等待复活（建议去七日活休闲，与其他玩家沟通好复活以后上线即可）","bold": true,"color": "red"}]

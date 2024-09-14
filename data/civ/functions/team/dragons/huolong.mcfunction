@@ -1,0 +1,1 @@
+tag @a[team=huolong,tag=!huolong] add huolong

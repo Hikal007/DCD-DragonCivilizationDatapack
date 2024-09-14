@@ -1,0 +1,2 @@
+title @p[tag=newjoinsky,tag=insky,team=!heilong] title [{"text": "神秘的声音","bold": true,"color": "dark_purple"}]
+title @p[tag=newjoinsky,tag=insky,team=!heilong] subtitle [{"text": "不管怎么样 这是你的选择","bold": true,"color": "gray"}]

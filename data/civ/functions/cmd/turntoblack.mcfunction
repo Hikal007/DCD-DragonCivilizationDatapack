@@ -1,0 +1,1 @@
+give @s wither_rose{display:{Name:"{\"text\":\"§c 混沌之花\"}"}} 1

@@ -1,0 +1,1 @@
+tag @a[team=binglong,tag=!binglong] add binglong

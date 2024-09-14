@@ -1,0 +1,10 @@
+function civ:forcemode/forcemodetick
+function civ:newforcetp/forcetptick
+function civ:team/newjointeamtick
+function civ:blackdragon/tick
+function civ:portal/tick
+function civ:xianji/tick
+function civ:skyland/tick
+function civ:team/healthbasetick
+function civ:special/tick
+function civ:dead/dead

@@ -1,0 +1,16 @@
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": "【天空之境 - 神秘之源】","color": "red","bold": true},{"text": "能量塔 - 南部 充能完毕！","color":"white","bold":false}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": "--------------------------------","color": "red","bold": true}]
+tellraw @a[tag=insky] [{"text": " "}]
+tellraw @a[tag=insky] [{"text": " "}]
+execute as @p in minecraft:skyland run setblock 0 -58 177 minecraft:green_stained_glass
+execute as @p in minecraft:skyland run setblock 0 7 169 stone_button[face=floor,facing=south]
+execute as @p in minecraft:skyland run playsound block.bell.resonate player @a 0 0 0 3000

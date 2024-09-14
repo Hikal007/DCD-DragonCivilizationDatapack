@@ -1,0 +1,1 @@
+execute if entity @a[tag=!healthbase] run function civ:team/healthbase

@@ -1,0 +1,2 @@
+title @p[tag=newjoinsky,tag=insky,team=!heilong] title [{"text": "神秘的声音","bold": true,"color": "dark_purple"}]
+title @p[tag=newjoinsky,tag=insky,team=!heilong] subtitle [{"text": "看到中心向四方的控制台了吗","bold": true,"color": "gray"}]
